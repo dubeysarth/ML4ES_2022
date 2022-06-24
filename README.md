@@ -37,7 +37,12 @@ The following are assumed for each participant,
                 <li>End-to-end ML Pipeline</li>
             </ul>
         </td>
-        <td style="text-align:center"></td>
+        <td style="text-align:center">
+            [<a src = "/Lectures/Lecture_01.pdf">Slides</a>]
+            [<a href = "/Lectures/Lecture_01.pdf">Slides</a>]
+            [<a href = "./Lectures/Lecture_01.pdf">Slides</a>]
+            [<a src = "./Lectures/Lecture_01.pdf">Slides</a>]
+        </td>
     </tr>
 </table>
 
