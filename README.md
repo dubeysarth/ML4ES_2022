@@ -41,6 +41,33 @@ The following are assumed for each participant,
             [<a href = "/Lectures/Lecture_01.pdf" target=”_blank”>Slides</a>]
         </td>
     </tr>
+    <tr>
+        <td style="text-align:center">2.</td>
+        <td style="text-align:center">
+            Basic elements/building blocks under ML
+        </td>
+        <td style="text-align:center">
+            [<a href = "https://docs.google.com/presentation/d/1YVNjusuotFr3ZD56P9sNCykqA_41I7il4gtDonZahE4/edit?usp=sharing" target=”_blank”>Slides</a>]
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align:center">3.</td>
+        <td style="text-align:center">
+            Basic elements/building blocks under ML (Continued...)
+            <ul style="text-align:left;font-size:10px;font-style: italic;">
+                <li>Data Preparation</li> 
+                <li>Train-Validation-Test</li>
+                <li>Overfitting and Underfitting</li>
+                <li>Exploratory Data Analysis</li>
+                <li>Brief introduction to Decision Tree and Linear Regression</li>
+                <li>Ensemble Learning</li>
+                <li>ML Taxonomy</li>
+            </ul>
+        </td>
+        <td style="text-align:center">
+            [<a href = "https://docs.google.com/presentation/d/1hJV3od895b4zt8yKZgBLEK9qsS-OGYo1r0r2fh-7ZLA/edit?usp=sharing" target=”_blank”>Slides</a>]
+        </td>
+    </tr>
 </table>
 
 ## References:
